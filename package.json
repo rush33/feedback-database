@@ -1,0 +1,16 @@
+{
+  "name": "feedback-server",
+  "version": "1.0.0",
+  "description": "database containg feedbacks",
+  "main": "server.js",
+
+  "scripts": {
+    "start": "node server.js"
+  },
+
+  "author": "Rushad Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
